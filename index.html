@@ -4,11 +4,12 @@
     <meta charset="utf-8">
     <title>My Remark.js Presentation</title>
     <style>
-        #debug { font-family: monospace; white-space: pre; }
+        #debug, #rawContent { font-family: monospace; white-space: pre-wrap; }
     </style>
 </head>
 <body>
     <div id="debug"></div>
+    <div id="rawContent"></div>
     <textarea id="source" style="display:none"></textarea>
     <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
     <script>
@@ -25,8 +26,11 @@
             .then(text => {
                 debug('Markdown content length: ' + text.length);
                 document.getElementById('source').value = text;
-                debug('Markdown content set to textarea');
-                remark.create();
+                document.getElementById('rawContent').textContent = text;
+                debug('Markdown content set to textarea and displayed');
+                remark.create({
+                    sourceUrl: 'https://furling-com-au.github.io/presentations/DisacchararidaseDeficiencies.md'
+                });
                 debug('remark.create() called');
             })
             .catch(error => {
