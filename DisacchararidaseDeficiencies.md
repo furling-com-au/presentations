@@ -7,209 +7,314 @@ class: center, middle
 **Presenter:** JW
 **Date:** 18 October 2024
 
-Disaccharidase deficiencies and gastrointestinal symptoms in patients referred to gastroscopic examination: a single center study from Norway
+**Article:** Dale HF, et al. (2024). Scandinavian Journal of Gastroenterology.
 
-Authors: Hanna Fjeldheim Dale, Milada Hagen, Mattis Bekkelund, Chirajyoti Deb & Jørgen Valeur
-
-visit: https://doi.org/10.1080/00365521.2024.2395848
-
-Note: Welcome everyone to the presentation. Introduce the topic and briefly mention that the study investigates disaccharidase deficiencies and their link to GI symptoms.
+???
+Welcome everyone to the presentation. Today, we'll be discussing a recent study that investigates disaccharidase deficiencies and their potential link to gastrointestinal symptoms. This research is particularly interesting as it focuses on adult patients, an area that has been relatively underexplored in this context.
 
 ---
 
-# Background
+# Overview of Disaccharidases and GI Function
 
-**Disaccharidases** are enzymes located in the small intestine that break down complex sugars.  
-- Enzymes involved: **lactase, maltase, sucrase, isomaltase, glucoamylase**.
-- Deficiencies can cause **malabsorption** leading to **GI symptoms** such as:
-  - Bloating
-  - Diarrhea
-  - Abdominal pain
+- **Disaccharidases**: Enzymes in small intestinal brush border
+  - Key enzymes: lactase, maltase, sucrase, isomaltase, glucoamylase
 
----
+- **Function**: Convert disaccharides into monosaccharides
 
-# Common Deficiencies
+- **Deficiency consequences**:
+  - Malabsorption of carbohydrates
+  - Increased osmotic load and fermentation
+  - GI symptoms: bloating, diarrhea, abdominal pain
 
-- **Lactase deficiency**: Most common cause of lactose intolerance.
-- **Sucrase-Isomaltase deficiency (SID)**: Results in starch and sucrose malabsorption.
-- **Less Common**: Maltase and glucoamylase deficiencies.
+- **Clinical relevance**:
+  - Lactose intolerance (lactase deficiency)
+  - Congenital sucrase-isomaltase deficiency (SID)
+  - Potential link to Irritable Bowel Syndrome (IBS)
 
-Note: Explain how these enzyme deficiencies are clinically relevant because they lead to malabsorption and symptoms similar to IBS.
+???
+Begin by explaining the fundamental role of disaccharidases in digestion. These enzymes are located in the brush border of the small intestine and are crucial for breaking down complex sugars into simple sugars that can be absorbed by the body. 
 
----
+The key enzymes we'll be discussing in this study are lactase, maltase, sucrase, isomaltase, and glucoamylase. Each of these enzymes is responsible for breaking down specific disaccharides.
 
-# Study Rationale
+When there's a deficiency in one or more of these enzymes, it can lead to malabsorption of carbohydrates. This malabsorption increases the osmotic load in the intestine and can lead to increased fermentation by gut bacteria. The result is often a range of gastrointestinal symptoms such as bloating, diarrhea, and abdominal pain.
 
-- Growing evidence links enzyme deficiencies to **Irritable Bowel Syndrome (IBS)**.
-- Disaccharidase deficiencies are often **underdiagnosed** in adults.
-- **Objective**: Investigate the prevalence and association between disaccharidase deficiency and GI symptoms.
+Clinically, we're most familiar with lactase deficiency, which leads to lactose intolerance. There's also congenital sucrase-isomaltase deficiency, which has been more commonly recognized in children. Interestingly, there's growing evidence suggesting a potential link between these enzyme deficiencies and IBS-like symptoms.
 
----
-
-# Study Objectives
-
-**Primary Objective**  
-- Determine the **prevalence** of disaccharidase deficiencies in patients with GI symptoms undergoing gastroscopy.
-
-**Secondary Objective**  
-- Explore the relationship between enzyme deficiencies and **GI symptom severity** and **IBS**.
+This background sets the stage for why studying these enzymes in relation to GI symptoms is important, particularly in adult populations where less research has been done.
 
 ---
 
-# Methods
+# Introduction to the Paper
 
-**Study Population**  
-- 40 patients referred for gastroscopy at Lovisenberg Diaconal Hospital (Oslo, Norway).
+- **Title**: Disaccharidase deficiencies and gastrointestinal symptoms in patients referred to gastroscopic examination: a single center study from Norway
 
-**Inclusion Criteria**  
-- Referred for suspected GI disorder and undergoing routine gastroscopy.
+- **Authors**: Dale HF, Hagen M, Bekkelund M, Deb C, Valeur J
 
-**Exclusion Criteria**  
-- No significant exclusion criteria.
+- **Journal**: Scandinavian Journal of Gastroenterology (2024)
 
-**Biopsy Sampling**  
-- Pinch biopsies taken from the **distal duodenum**.
+--
 
-Note: Explain the patient selection process and the rationale behind using the Dahlqvist method for measuring enzyme activity.
+## Why this paper?
 
----
+- Investigates an underexplored area in adult gastroenterology
+- Examines relationship between enzyme deficiencies and GI symptoms
+- Potential implications for diagnosis and management of GI disorders
 
-# Biopsy and Enzyme Activity Measurement
+???
+This study is significant because it addresses a gap in our understanding of disaccharidase deficiencies in adults. As mentioned earlier, most previous research has focused on children, making this adult-focused study particularly valuable.
 
-- **Dahlqvist Method**: Used to measure disaccharidase activity.
-- Biopsies homogenized, and enzyme activity measured for:
-  - **Lactase**
-  - **Maltase**
-  - **Sucrase**
-  - **Isomaltase**
-  - **Glucoamylase**
+The paper is important for several reasons:
 
-![Placeholder for Biopsy Image]()
+1. It investigates an area that's been underexplored in adult gastroenterology. While we have a good understanding of conditions like lactose intolerance, the prevalence and impact of other disaccharidase deficiencies in adults are less clear.
 
-Note: The Dahlqvist method is a standard assay for measuring enzyme activity. Here, three pinch biopsies from the distal duodenum were used for analysis.
+2. It specifically examines the relationship between enzyme deficiencies and GI symptoms. This is crucial because it could help us understand whether these deficiencies are contributing to unexplained GI symptoms in some patients.
+
+3. The findings of this study could have significant implications for how we diagnose and manage GI disorders, particularly in cases where symptoms are similar to IBS. If there's a strong relationship between enzyme deficiencies and symptoms, it might suggest new avenues for treatment or diagnosis.
+
+Understanding the prevalence of these deficiencies and their relationship to GI symptoms could potentially change our approach to patients presenting with certain GI complaints, making this study highly relevant to clinical practice.
 
 ---
 
-# Symptom Assessment
+# Study Rationale and Objectives
 
-**IBS Diagnosis**: Based on **Rome IV criteria**.  
-- Symptoms like **abdominal pain**, changes in stool frequency, and form over the last 3 months.
+## Rationale:
+- Disaccharidase deficiencies often underdiagnosed in adults
+- Growing evidence links enzyme deficiencies to IBS-like symptoms
+- Limited data on prevalence in adults undergoing routine gastroscopy
 
-**Symptom Severity**: Measured using **IBS Symptom Severity Score (IBS-SSS)**:
-- Scale: Mild (75–175), Moderate (175–300), Severe (>300).
+--
 
-Note: Explain how the study categorized GI symptoms using the IBS-SSS score. This scale gives a quantitative measure of symptom severity.
+## Objectives:
 
----
+1. **Primary**: Determine prevalence of disaccharidase deficiencies in patients with GI symptoms undergoing gastroscopy
 
-# Key Results
+2. **Secondary**: Explore relationship between enzyme deficiencies, GI symptom severity, and IBS diagnosis
 
-- **60%** of patients had disaccharidase deficiencies.
-  - Most common: **Lactase deficiency (55%)**.
-  - 20% had **deficiency in all enzymes**.
-- **Symptom Severity**: 75% of patients reported moderate to severe symptoms.
-- No significant correlation between disaccharidase deficiency and **IBS diagnosis**.
+???
+Let's delve into the rationale behind this study. The authors recognized several key points that motivated their research:
 
-Note: Highlight the surprising result that disaccharidase deficiencies were common, but there wasn’t a strong link to IBS diagnosis or symptom severity.
+1. Disaccharidase deficiencies are often underdiagnosed in adults. While we routinely consider these in pediatric populations, they're not always on our radar when dealing with adult patients presenting with GI symptoms.
 
----
+2. There's growing evidence suggesting a link between enzyme deficiencies and IBS-like symptoms. This is intriguing because it suggests that some cases of what we diagnose as IBS might actually be related to undiagnosed enzyme deficiencies.
 
-# Results Breakdown
+3. Despite this growing interest, there's limited data on the prevalence of these deficiencies in adults undergoing routine gastroscopy. This is a significant gap in our knowledge.
 
-- **Disaccharidase Deficiency**:
-  - 24 patients (60%) had deficiencies in one or more enzymes.
-  - Lactase was most frequently deficient (22 patients, 55%).
-  
-- **IBS Prevalence**: 
-  - IBS present in 54% of patients with enzyme deficiency vs. 50% without.
+Given this background, the study had two main objectives:
 
-![Placeholder for Graph showing Disaccharidase Deficiency]()
+The primary objective was to determine how common these disaccharidase deficiencies are in patients with GI symptoms who are undergoing gastroscopy. This is important because it gives us an idea of how often we might be missing these deficiencies in our regular clinical practice.
 
-Note: Walk the audience through the breakdown of enzyme deficiencies and how it relates to the IBS population within the study.
+The secondary objective was to explore whether there's a relationship between these enzyme deficiencies and the severity of GI symptoms or the diagnosis of IBS. This could potentially help us understand if enzyme deficiencies are contributing to the symptoms in patients diagnosed with IBS.
+
+These objectives are well-aligned with the gaps in our current knowledge and could provide valuable insights for clinical practice.
 
 ---
 
-# Association Between Enzyme Deficiency and Symptoms
+# Methodology
 
-- **No significant association** between enzyme levels and GI symptom severity.
-- Both patients with and without disaccharidase deficiency reported **moderate to severe** symptoms.
+## Study Design: 
+Single-center, cross-sectional study
 
-![Placeholder for Table or Chart]()
+## Population: 
+40 patients referred for gastroscopy at Lovisenberg Diaconal Hospital, Oslo, Norway
 
-Note: Emphasize that while disaccharidase deficiency was prevalent, its relationship with symptoms was unclear, suggesting other factors may be involved.
+--
 
----
+## Key Methods:
+1. Duodenal biopsy during routine gastroscopy
+2. Enzyme activity measurement using Dahlqvist method
+3. IBS diagnosis based on Rome IV criteria
+4. Symptom severity assessed using IBS Symptom Severity Score (IBS-SSS)
 
-# Figure: Disaccharidase Deficiency vs GI Symptom Severity
+--
 
-- **Question**: Does disaccharidase deficiency affect GI symptom severity?
-- **Finding**: No clear pattern observed.
+## Limitations:
+- No blinding mentioned
+- No long-term follow-up
+- Reliability and reproducibility not explicitly addressed
 
-![Placeholder for Figure Image]()
+???
+Let's examine the methodology of this study in detail:
 
-Note: Use this figure to demonstrate the comparison between symptom severity and enzyme levels.
+The study design was a single-center, cross-sectional study. This is important to note because it means we're getting a snapshot of the situation at one point in time, rather than following patients over a period.
 
----
+The study population consisted of 40 patients who were referred for gastroscopy at a hospital in Oslo, Norway. This is a relatively small sample size, which we'll discuss more when we talk about limitations.
 
-# Discussion & Conclusion
+The key methods used in this study were:
 
-- **Main Findings**: Disaccharidase deficiencies are common but **not strongly correlated** with IBS or GI symptom severity.
-- **Strengths**:
-  - First study to measure enzyme activity in adults undergoing routine gastroscopy.
-  - Biochemical confirmation of enzyme deficiency.
-- **Weaknesses**:
-  - **Small sample size** (40 patients).
-  - Single-center study, limiting generalizability.
+1. Duodenal biopsy during routine gastroscopy. This allowed the researchers to collect tissue samples without subjecting patients to additional procedures.
 
----
+2. Enzyme activity measurement using the Dahlqvist method. This is a standard biochemical assay for measuring disaccharidase activity.
 
-# Study Strengths
+3. IBS diagnosis based on Rome IV criteria. These are the most up-to-date diagnostic criteria for IBS, which lends credibility to the IBS diagnoses in this study.
 
-- **Objective biochemical measures** of enzyme activity.
-- Focus on **adult patients**, which is less commonly studied compared to pediatric populations.
+4. Symptom severity was assessed using the IBS Symptom Severity Score (IBS-SSS). This is a validated tool for assessing the severity of IBS symptoms.
 
-![Placeholder for Strength Image]()
+However, it's important to note some limitations in the methodology:
 
-Note: Mention that the study fills an important gap by investigating disaccharidase deficiency in adults with GI complaints.
+- There's no mention of blinding in the study. This could potentially introduce bias in the assessment of outcomes.
 
----
+- As this was a cross-sectional study, there was no long-term follow-up. This means we can't draw conclusions about how enzyme deficiencies might affect symptoms over time.
 
-# Study Weaknesses
+- The reliability and reproducibility of the enzyme activity measurements were not explicitly addressed. This is important because it affects our confidence in the accuracy of these measurements.
 
-- **Sample size**: Limited generalizability due to only 40 patients.
-- **No dietary data**: GI symptoms could be influenced by diet, not just enzyme activity.
-- **Biopsy location**: Only **distal duodenum** samples were used, which may not capture variations in enzyme activity across the intestine.
-
-![Placeholder for Weakness Image]()
-
-Note: Critical evaluation should focus on the limitations that may affect the interpretation of the findings.
+These methodological details and limitations are crucial to keep in mind as we interpret the results of the study.
 
 ---
 
-# Clinical Relevance
+# Results: Patient Characteristics
 
-- Routine testing for **disaccharidase deficiencies** may not be justified based on these findings.
-- **Dietary adjustments** (e.g., lactose restriction) could still benefit specific patients, but routine testing may not be necessary for all.
+- 40 patients (25 women, 15 men)
+- Median age: 34.5 years (range 20-77)
 
-Note: Emphasize that the clinical take-home is that enzyme testing should be selective, not routine.
+--
+
+## Reasons for referral:
+- Suspected celiac disease (n=15)
+- Dyspepsia (n=10)
+- Others: GI bleeding, heartburn, suspected Crohn's, etc.
+
+--
+
+## IBS and Symptom Severity:
+- IBS diagnosis: 21 patients (52.5%)
+- GI symptom severity:
+  - Mild: 25%
+  - Moderate: 50%
+  - Severe: 25%
+
+???
+Let's look at the key characteristics of the study population:
+
+The study included 40 patients, with more women (25) than men (15). This gender distribution is typical in IBS studies, where women tend to be overrepresented.
+
+The median age was 34.5 years, with a wide range from 20 to 77 years. This relatively young median age is noteworthy and may affect the generalizability of the results to older populations.
+
+The reasons for referral were diverse, which is important because it shows this wasn't a group pre-selected for suspected enzyme deficiencies. The most common reasons were suspected celiac disease (15 patients) and dyspepsia (10 patients), with others including GI bleeding, heartburn, and suspected Crohn's disease.
+
+Interestingly, over half of the patients (52.5%) met the criteria for IBS diagnosis. This is a high proportion and suggests that this population had significant GI distress.
+
+The distribution of symptom severity is also important:
+- 25% had mild symptoms
+- 50% had moderate symptoms
+- 25% had severe symptoms
+
+This distribution shows that 75% of the patients had moderate to severe symptoms, which again emphasizes that this was a population with significant GI complaints.
+
+These patient characteristics provide important context for interpreting the enzyme deficiency results. We're looking at a group of patients who were referred for gastroscopy due to various GI issues, many of whom had significant symptoms and met criteria for IBS.
 
 ---
 
-# Key Takeaways
+# Results: Enzyme Deficiency Prevalence
 
-- **Disaccharidase deficiencies are common**, particularly lactase deficiency.
-- **No strong correlation** between enzyme deficiency and GI symptom severity.
-- More research is needed to explore other factors influencing GI symptoms.
+- Overall deficiency: 24 patients (60%)
 
-![Placeholder for Conclusion Image]()
+--
 
-Note: End with key messages that the audience can take home, summarizing the relevance of the study for clinical practice.
+## Breakdown by enzyme:
+- Lactase: 55% (22/40)
+- Isomaltase: 32.5% (13/40)
+- Glucoamylase: 30% (12/40)
+- Maltase: 27.5% (11/40)
+- Sucrase: 22.5% (9/40)
+
+--
+
+## Key findings:
+- All enzymes deficient: 20% (8/40)
+- Lactase deficiency only: 20% (8/40)
+
+???
+Now, let's dive into the main results regarding enzyme deficiency prevalence. These findings are crucial to the study's primary objective.
+
+The overall prevalence of enzyme deficiency was strikingly high: 24 out of 40 patients, or 60%, had at least one enzyme deficiency. This is a key finding and is higher than what might have been expected based on previous studies.
+
+Looking at the breakdown by specific enzymes:
+
+- Lactase deficiency was the most common, found in 55% of patients. This aligns with general population estimates of lactose intolerance.
+- Isomaltase deficiency was next at 32.5%, followed closely by glucoamylase at 30%.
+- Maltase deficiency was found in 27.5% of patients.
+- Sucrase deficiency was the least common but still present in 22.5% of patients.
+
+Two key findings stand out:
+
+1. 20% of patients (8 out of 40) had deficiencies in all enzymes tested. This is a surprisingly high number and raises questions about potential underlying factors affecting overall enzyme production.
+
+2. Another 20% had lactase deficiency alone, without any other enzyme deficiencies. This highlights the prevalence of isolated lactase deficiency.
+
+These results are important for several reasons:
+
+1. They suggest that enzyme deficiencies might be more common in adults with GI symptoms than previously thought.
+2. The high prevalence of multiple enzyme deficiencies (20% with all enzymes deficient) is particularly intriguing and warrants further investigation.
+3. These findings might have implications for how we approach diagnosis and treatment of GI symptoms in adults.
+
+However, it's important to remember the small sample size of this study when interpreting these percentages. Larger studies would be needed to confirm if these high prevalence rates are representative of the broader population of adults with GI symptoms.
 
 ---
 
-# Questions?
+# Results: Enzyme Deficiency and IBS
 
-### Thank you for your attention!  
-Feel free to ask any questions.
+## Question: 
+Is there a correlation between enzyme deficiency and IBS diagnosis?
 
-Note: Open the floor for questions, inviting the audience to discuss any unclear aspects of the methodology or results.
+--
+
+## Findings:
+- IBS prevalence in enzyme-deficient group: 54% (13/24)
+- IBS prevalence in non-deficient group: 50% (8/16)
+- No significant association observed
+
+???
+Now, let's address one of the key questions of the study: Is there a correlation between enzyme deficiency and IBS diagnosis?
+
+The findings here are quite interesting:
+
+- In the group with enzyme deficiencies, 54% (13 out of 24 patients) had IBS.
+- In the group without enzyme deficiencies, 50% (8 out of 16 patients) had IBS.
+- Statistically, there was no significant association observed between enzyme deficiency and IBS diagnosis.
+
+This is a key negative finding of the study. Despite the high prevalence of enzyme deficiencies we saw earlier, there doesn't seem to be a clear link between having these deficiencies and being diagnosed with IBS.
+
+This result is somewhat surprising and challenges the hypothesis that enzyme deficiencies might be a major driver of IBS symptoms. There are several potential explanations we should consider:
+
+1. Enzyme deficiencies might cause similar symptoms to IBS without necessarily meeting the full diagnostic criteria for IBS.
+
+2. IBS might be a heterogeneous condition with multiple underlying causes, of which enzyme deficiency is only one possible factor.
+
+3. The small sample size of the study might have limited its ability to detect a true association if one exists.
+
+4. There could be compensatory mechanisms in some patients that prevent enzyme deficiencies from causing IBS-level symptoms.
+
+This lack of association is an important finding because it suggests that the relationship between enzyme deficiencies and IBS is not straightforward. It indicates that while enzyme deficiencies might contribute to GI symptoms, they're not necessarily more common in IBS patients than in non-IBS patients with GI symptoms.
+
+These results highlight the complex nature of IBS and the need for further research to understand the various factors contributing to its symptoms.
+
+---
+
+# Results: Enzyme Levels and Symptom Severity
+
+## Question: 
+Do enzyme levels correlate with GI symptom severity?
+
+--
+
+## Findings:
+- No significant correlation between enzyme levels and IBS-SSS scores
+- Unexpected finding: Maltase, sucrase, and isomaltase levels significantly lower in mild symptom group compared to moderate symptom group
+- Both deficient and non-deficient groups reported moderate to severe symptoms
+
+???
+Let's examine another key question of the study: Do enzyme levels correlate with GI symptom severity?
+
+The findings here are quite complex and, in some ways, counterintuitive:
+
+1. First and foremost, the study found no significant correlation between enzyme levels and IBS-SSS scores. This means that patients with lower enzyme levels didn't necessarily have more severe symptoms, and those with higher enzyme levels didn't necessarily have milder symptoms.
+
+2. There was an unexpected finding: Maltase, sucrase, and isomaltase levels were significantly lower in the group with mild symptoms compared to the group with moderate symptoms. This is the opposite of what we might expect if enzyme deficiencies were directly causing symptoms.
+
+3. Both the enzyme-deficient group and the non-deficient group reported moderate to severe symptoms. This suggests that factors other than enzyme deficiency are contributing significantly to symptom severity.
+
+These results challenge our initial hypotheses and suggest that the relationship between enzyme deficiency and GI symptoms is not straightforward. There are several potential explanations we should consider:
+
+1. There might be compensatory mechanisms at play. Some patients with enzyme deficiencies might have developed ways to manage their diet or digest foods that minimize their symptoms.
+
+2. The severity of symptoms might
