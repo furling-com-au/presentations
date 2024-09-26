@@ -1,48 +1,35 @@
+
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
+    <title>Title</title>
     <meta charset="utf-8">
-    <title>My Remark.js Presentation</title>
     <style>
-        #debug, #rawContent { font-family: monospace; white-space: pre-wrap; }
-        .remark-slide-content { font-size: 24px; }
-    </style>
-</head>
-<body>
-    <div id="debug"></div>
-    <div id="rawContent"></div>
-    <div id="slideshow"></div>
-    <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
-    <script>
-        function debug(message) {
-            document.getElementById('debug').textContent += message + '\n';
-        }
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
 
-        debug('Script started');
-        fetch('https://furling-com-au.github.io/presentations/DisacchararidaseDeficiencies.md')
-            .then(response => response.text())
-            .then(text => {
-                debug('Markdown content fetched. Length: ' + text.length);
-                document.getElementById('rawContent').textContent = text;
-                
-                remark.create({
-                    source: text,
-                    container: document.getElementById('slideshow')
-                }, function(slideshow) {
-                    debug('Remark.js slideshow created');
-                    debug('Number of slides: ' + slideshow.getSlides().length);
-                    var firstSlide = document.querySelector('.remark-slide-content');
-                    if (firstSlide) {
-                        debug('First slide content: ' + firstSlide.textContent.substring(0, 50) + '...');
-                    } else {
-                        debug('No slides found in DOM');
-                    }
-                });
-            })
-            .catch(error => {
-                debug('Error: ' + error.message);
-                console.error('Error:', error);
-            });
+      body { font-family: 'Droid Serif'; }
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: normal;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+    </textarea>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
     </script>
-</body>
+    <script>
+      var slideshow = remark.create({
+  sourceUrl: 'https://furling-com-au.github.io/presentations/DisacchararidaseDeficiencies.md'
+});
+    </script>
+  </body>
 </html>
+
+
+
