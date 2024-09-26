@@ -3,18 +3,36 @@
 <head>
     <meta charset="utf-8">
     <title>My Remark.js Presentation</title>
+    <style>
+        #debug { font-family: monospace; white-space: pre; }
+    </style>
 </head>
 <body>
+    <div id="debug"></div>
     <textarea id="source" style="display:none"></textarea>
     <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
     <script>
+        function debug(message) {
+            document.getElementById('debug').textContent += message + '\n';
+        }
+
+        debug('Script started');
         fetch('https://furling-com-au.github.io/presentations/DisacchararidaseDeficiencies.md')
-            .then(response => response.text())
-            .then(text => {
-                document.getElementById('source').value = text;
-                remark.create();
+            .then(response => {
+                debug('Fetch response received');
+                return response.text();
             })
-            .catch(error => console.error('Error loading Markdown:', error));
+            .then(text => {
+                debug('Markdown content length: ' + text.length);
+                document.getElementById('source').value = text;
+                debug('Markdown content set to textarea');
+                remark.create();
+                debug('remark.create() called');
+            })
+            .catch(error => {
+                debug('Error: ' + error.message);
+                console.error('Error loading Markdown:', error);
+            });
     </script>
 </body>
 </html>
