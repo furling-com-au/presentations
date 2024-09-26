@@ -5,12 +5,13 @@
     <title>My Remark.js Presentation</title>
     <style>
         #debug, #rawContent { font-family: monospace; white-space: pre-wrap; }
+        .remark-slide-content { font-size: 24px; }
     </style>
 </head>
 <body>
     <div id="debug"></div>
     <div id="rawContent"></div>
-    <textarea id="source" style="display:none"></textarea>
+    <div id="slideshow"></div>
     <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
     <script>
         function debug(message) {
@@ -19,24 +20,23 @@
 
         debug('Script started');
         fetch('https://furling-com-au.github.io/presentations/DisacchararidaseDeficiencies.md')
-            .then(response => {
-                debug('Fetch response received');
-                return response.text();
-            })
+            .then(response => response.text())
             .then(text => {
-                debug('Markdown content length: ' + text.length);
-                document.getElementById('source').value = text;
+                debug('Markdown content fetched. Length: ' + text.length);
                 document.getElementById('rawContent').textContent = text;
-                debug('Markdown content set to textarea and displayed');
                 
-                var slideshow = remark.create({
-                    source: text
-                });
-                
-                debug('Remark.js slideshow created');
-                debug('Number of slides: ' + slideshow.getSlides().length);
-                slideshow.getSlides().forEach((slide, index) => {
-                    debug('Slide ' + (index + 1) + ' content: ' + slide.content.substring(0, 50) + '...');
+                remark.create({
+                    source: text,
+                    container: document.getElementById('slideshow')
+                }, function(slideshow) {
+                    debug('Remark.js slideshow created');
+                    debug('Number of slides: ' + slideshow.getSlides().length);
+                    var firstSlide = document.querySelector('.remark-slide-content');
+                    if (firstSlide) {
+                        debug('First slide content: ' + firstSlide.textContent.substring(0, 50) + '...');
+                    } else {
+                        debug('No slides found in DOM');
+                    }
                 });
             })
             .catch(error => {
