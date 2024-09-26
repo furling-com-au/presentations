@@ -11,7 +11,7 @@ Disaccharidase deficiencies and gastrointestinal symptoms in patients referred t
 
 Authors: Hanna Fjeldheim Dale, Milada Hagen, Mattis Bekkelund, Chirajyoti Deb & Jørgen Valeur
 
-https://doi.org/10.1080/00365521.2024.2395848
+visit: https://doi.org/10.1080/00365521.2024.2395848
 
 Note: Welcome everyone to the presentation. Introduce the topic and briefly mention that the study investigates disaccharidase deficiencies and their link to GI symptoms.
 
