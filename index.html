@@ -1,19 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8">
-<title>My Remark.js Presentation</title>
-<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
-<script>
-    fetch('https://furling-com-au.github.io/presentations/DisacchararidaseDeficiencies.md')
-    .then(response => response.text())
-    .then(text => {
-        document.getElementById('source').value = text;
-        remark.create();
-    });
-</script>
+    <meta charset="utf-8">
+    <title>My Remark.js Presentation</title>
 </head>
 <body>
-<textarea id="source" style="display:none"></textarea>
+    <textarea id="source" style="display:none"></textarea>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+    <script>
+        fetch('https://furling-com-au.github.io/presentations/DisacchararidaseDeficiencies.md')
+            .then(response => response.text())
+            .then(text => {
+                document.getElementById('source').value = text;
+                remark.create();
+            })
+            .catch(error => console.error('Error loading Markdown:', error));
+    </script>
 </body>
 </html>
