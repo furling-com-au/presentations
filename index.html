@@ -28,14 +28,20 @@
                 document.getElementById('source').value = text;
                 document.getElementById('rawContent').textContent = text;
                 debug('Markdown content set to textarea and displayed');
-                remark.create({
-                    sourceUrl: 'https://furling-com-au.github.io/presentations/DisacchararidaseDeficiencies.md'
+                
+                var slideshow = remark.create({
+                    source: text
                 });
-                debug('remark.create() called');
+                
+                debug('Remark.js slideshow created');
+                debug('Number of slides: ' + slideshow.getSlides().length);
+                slideshow.getSlides().forEach((slide, index) => {
+                    debug('Slide ' + (index + 1) + ' content: ' + slide.content.substring(0, 50) + '...');
+                });
             })
             .catch(error => {
                 debug('Error: ' + error.message);
-                console.error('Error loading Markdown:', error);
+                console.error('Error:', error);
             });
     </script>
 </body>
