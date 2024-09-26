@@ -108,8 +108,7 @@ The secondary objective was to explore whether there's a relationship between th
 These objectives are well-aligned with the gaps in our current knowledge and could provide valuable insights for clinical practice.
 
 ---
-
-# Methodology
+# Methodology (1/2)
 
 ## Study Design: 
 Single-center, cross-sectional study
@@ -124,13 +123,6 @@ Single-center, cross-sectional study
 2. Enzyme activity measurement using Dahlqvist method
 3. IBS diagnosis based on Rome IV criteria
 4. Symptom severity assessed using IBS Symptom Severity Score (IBS-SSS)
-
---
-
-## Limitations:
-- No blinding mentioned
-- No long-term follow-up
-- Reliability and reproducibility not explicitly addressed
 
 ???
 Let's examine the methodology of this study in detail:
@@ -149,6 +141,25 @@ The key methods used in this study were:
 
 4. Symptom severity was assessed using the IBS Symptom Severity Score (IBS-SSS). This is a validated tool for assessing the severity of IBS symptoms.
 
+---
+
+# Methodology (2/2)
+
+## Key Methods (continued):
+5. Enzyme activities measured: lactase, maltase, sucrase, isomaltase, glucoamylase
+6. Cut-off values for deficiency based on 3rd percentile of normal range
+
+--
+
+## Limitations:
+- No blinding mentioned
+- No long-term follow-up
+- Reliability and reproducibility not explicitly addressed
+- Small sample size (n=40)
+
+???
+Continuing with the methodology, it's important to note that the study measured activities of five specific enzymes: lactase, maltase, sucrase, isomaltase, and glucoamylase. The researchers defined enzyme deficiency using cut-off values based on the 3rd percentile of the normal range, which is a standard approach.
+
 However, it's important to note some limitations in the methodology:
 
 - There's no mention of blinding in the study. This could potentially introduce bias in the assessment of outcomes.
@@ -157,8 +168,9 @@ However, it's important to note some limitations in the methodology:
 
 - The reliability and reproducibility of the enzyme activity measurements were not explicitly addressed. This is important because it affects our confidence in the accuracy of these measurements.
 
-These methodological details and limitations are crucial to keep in mind as we interpret the results of the study.
+- The small sample size of 40 patients limits the statistical power of the study and the generalizability of its results.
 
+These methodological details and limitations are crucial to keep in mind as we interpret the results of the study.
 ---
 
 # Results: Patient Characteristics
