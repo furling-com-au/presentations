@@ -31,6 +31,7 @@ Welcome everyone to the presentation. Today, we'll be discussing a recent study 
   - Congenital sucrase-isomaltase deficiency (SID)
   - Potential link to Irritable Bowel Syndrome (IBS)
 
+![Intestinal Enzymes](./images/physiology.webp)
 ???
 Begin by explaining the fundamental role of disaccharidases in digestion. These enzymes are located in the brush border of the small intestine and are crucial for breaking down complex sugars into simple sugars that can be absorbed by the body. 
 
