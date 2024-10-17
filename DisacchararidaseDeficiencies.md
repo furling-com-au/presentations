@@ -7,7 +7,10 @@ class: center, middle
 **Presenter:** JW
 **Date:** 18 October 2024
 
-**Article:** Dale HF, et al. (2024). Scandinavian Journal of Gastroenterology.
+**Article:** Dale HF, et al. (2024). Disaccharidase deficiencies and gastrointestinal symptoms in patients referred to gastroscopic examination: a single center study from Norway.  
+Scandinavian Journal of Gastroenterology.
+
+.footnote[DOI: [10.1080/00365521.2024.2395848](https://doi.org/10.1080/00365521.2024.2395848)]
 
 ???
 Welcome everyone to the presentation. Today, we'll be discussing a recent study that investigates disaccharidase deficiencies and their potential link to gastrointestinal symptoms. This research is particularly interesting as it focuses on adult patients, an area that has been relatively underexplored in this context.
