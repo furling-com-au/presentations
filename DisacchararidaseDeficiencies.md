@@ -45,7 +45,7 @@ This background sets the stage for why studying these enzymes in relation to GI 
 ---
 
 # 
-<img src="./images/physiology.webp?v=2" alt="Intestinal Enzymes." style="width: 90%; height: fit-content; object-fit: contain;">
+<img src="./images/physiology.webp?v=3" alt="Intestinal Enzymes." style="width: 90%; height: fit-content; object-fit: contain;">
 
 <small> Effect of fermented starches in disaccharidase deficient patients compared to normal, healthy patients. </small>
 <small> https://link.springer.com/article/10.1007/s11894-023-00870-z/figures/1 </small>
@@ -224,6 +224,11 @@ These patient characteristics provide important context for interpreting the enz
 
 ---
 
+# 
+<img src="./images/pt_characteristics.png?v=1" alt="pt characteristics" style="width: 90%; height: fit-content; object-fit: contain;">
+
+---
+
 # Results: Enzyme Deficiency Prevalence
 
 - Overall deficiency: 24 patients (60%)
@@ -269,6 +274,17 @@ These results are important for several reasons:
 
 However, it's important to remember the small sample size of this study when interpreting these percentages. Larger studies would be needed to confirm if these high prevalence rates are representative of the broader population of adults with GI symptoms.
 
+
+---
+
+# 
+<img src="./images/results.png?v=1" alt="pt characteristics" style="width: 90%; height: fit-content; object-fit: contain;">
+
+---
+
+# 
+<img src="./images/scores.png?v=1" alt="pt characteristics" style="width: 90%; height: fit-content; object-fit: contain;">
+
 ---
 
 # Results: Enzyme Deficiency and IBS
@@ -309,6 +325,11 @@ This lack of association is an important finding because it suggests that the re
 These results highlight the complex nature of IBS and the need for further research to understand the various factors contributing to its symptoms.
 
 ---
+
+---
+
+# 
+<img src="./images/table_results.png?v=1" alt="pt characteristics" style="width: 90%; height: fit-content; object-fit: contain;">
 
 # Results: Enzyme Levels and Symptom Severity
 
