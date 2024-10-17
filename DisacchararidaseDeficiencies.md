@@ -45,9 +45,7 @@ This background sets the stage for why studying these enzymes in relation to GI 
 ---
 
 # 
-
-![Intestinal Enzymes](./images/physiology.webp)
-
+<img src="./images/physiology.webp?v=1" alt="Intestinal Enzymes." style="width: 90%; height: 70vh; object-fit: contain;">
 
 ---
 
