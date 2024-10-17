@@ -45,7 +45,10 @@ This background sets the stage for why studying these enzymes in relation to GI 
 ---
 
 # 
-<img src="./images/physiology.webp?v=1" alt="Intestinal Enzymes." style="width: 90%; height: 70vh; object-fit: contain;">
+<img src="./images/physiology.webp?v=2" alt="Intestinal Enzymes." style="width: 90%; height: fit-content; object-fit: contain;">
+
+<small> Effect of fermented starches in disaccharidase deficient patients compared to normal, healthy patients. </small>
+<small> https://link.springer.com/article/10.1007/s11894-023-00870-z/figures/1 </small>
 
 ---
 
