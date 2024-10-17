@@ -44,6 +44,13 @@ This background sets the stage for why studying these enzymes in relation to GI 
 
 ---
 
+# Effect of fermented starches in disaccharidase deficient patients compared to normal, healthy patients
+
+![Intestinal Enzymes](./images/instestinal_enzymes.png)
+
+
+---
+
 # Introduction to the Paper
 
 - **Title**: Disaccharidase deficiencies and gastrointestinal symptoms in patients referred to gastroscopic examination: a single center study from Norway
