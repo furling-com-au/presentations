@@ -325,11 +325,10 @@ This lack of association is an important finding because it suggests that the re
 These results highlight the complex nature of IBS and the need for further research to understand the various factors contributing to its symptoms.
 
 ---
-
----
-
 # 
 <img src="./images/table_results.png?v=1" alt="pt characteristics" style="width: 90%; height: fit-content; object-fit: contain;">
+
+---
 
 # Results: Enzyme Levels and Symptom Severity
 
