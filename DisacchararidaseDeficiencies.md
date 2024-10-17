@@ -45,6 +45,12 @@ Clinically, we're most familiar with lactase deficiency, which leads to lactose 
 
 This background sets the stage for why studying these enzymes in relation to GI symptoms is important, particularly in adult populations where less research has been done.
 
+EnzymeFunctionAssociated FoodsLactaseBreaks down 
+lactose Milk, yogurt, cheese, ice cream
+Maltase Breaks down maltoseGrains (wheat, barley, rye), cereals, bread, pasta
+Sucrase Breaks down sucroseTable sugar, candy, soft drinks, fruits (especially ripe bananas)Isomaltase Breaks down isomaltoseStarchy foods (potatoes, rice), beer
+Glucoamylase Breaks down long glucose chainsStarchy foods (corn, potatoes, rice), processed foods with added starch
+
 ---
 
 # 
